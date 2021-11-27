@@ -22,7 +22,7 @@ body{
 audio{
   position: absolute;
   top: 10px;
-  left:70%;
+  left:68%;
   height: 30px;
 }
 
@@ -54,7 +54,7 @@ div.container{
   position: absolute;
   width: 250px;
   top: 46px;
-  left: 80%;
+  left: 77%;
   border-radius: 15px;
 }
 
